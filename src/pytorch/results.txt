@@ -1,0 +1,161 @@
+
+Loading raw data collections ...
+Building data sets ...
+Elapsed: 3m 0.79s, Iter: 1, Loss: 1392.154, AUC: 0.494
+Elapsed: 5m 39.54s, Iter: 2, Loss: 1392.296, AUC: 0.491
+Elapsed: 8m 20.53s, Iter: 3, Loss: 1389.302, AUC: 0.441
+Elapsed: 11m 0.09s, Iter: 4, Loss: 1387.698, AUC: 0.519
+Elapsed: 13m 38.22s, Iter: 5, Loss: 1390.720, AUC: 0.417
+Elapsed: 16m 15.91s, Iter: 6, Loss: 1390.131, AUC: 0.417
+Elapsed: 18m 51.69s, Iter: 7, Loss: 1388.988, AUC: 0.438
+Elapsed: 21m 26.51s, Iter: 8, Loss: 1390.744, AUC: 0.478
+Elapsed: 24m 3.01s, Iter: 9, Loss: 1388.550, AUC: 0.507
+Elapsed: 26m 38.52s, Iter: 10, Loss: 1388.868, AUC: 0.
+
+
+Building data sets ...
+Epoch Used: 106.129, Eval Used: 144.428
+Elapsed: 2m 45.65s, Iter: 1, Loss: 1392.154, AUC: 0.500
+Epoch Used: 106.154, Eval Used: 144.824
+Elapsed: 5m 10.48s, Iter: 2, Loss: 1392.296, AUC: 0.500
+Epoch Used: 106.586, Eval Used: 146.984
+Elapsed: 7m 37.46s, Iter: 3, Loss: 1389.302, AUC: 0.500
+Epoch Used: 105.570, Eval Used: 143.828
+Elapsed: 10m 1.29s, Iter: 4, Loss: 1387.698, AUC: 0.750
+Epoch Used: 105.094, Eval Used: 144.286
+Elapsed: 12m 25.58s, Iter: 5, Loss: 1390.720, AUC: 0.750
+Epoch Used: 106.079, Eval Used: 143.818
+Elapsed: 14m 49.40s, Iter: 6, Loss: 1390.131, AUC: 0.500
+Epoch Used: 105.706, Eval Used: 143.405
+Elapsed: 17m 12.80s, Iter: 7, Loss: 1388.988, AUC: 0.750
+Epoch Used: 105.385, Eval Used: 141.251
+Elapsed: 19m 34.06s, Iter: 8, Loss: 1390.744, AUC: 0.750
+Epoch Used: 105.608, Eval Used: 142.868
+Elapsed: 21m 56.92s, Iter: 9, Loss: 1388.550, AUC: 0.750
+Epoch Used: 105.648, Eval Used: 143.956
+Elapsed: 24m 20.88s, Iter: 10, Loss: 1388.868, AUC: 0.750
+
+D:\Projects\Github\temporary\pytorch>python test.py
+Loading raw data collections ...
+Building data sets ...
+Epoch Used: 109.271, Eval Used: 149.230
+Elapsed: 2m 50.41s, Iter: 1, Loss: 1390.250, AUC: 0.750
+Epoch Used: 108.470, Eval Used: 146.628
+Elapsed: 5m 17.03s, Iter: 2, Loss: 1390.963, AUC: 0.750
+Epoch Used: 108.021, Eval Used: 147.536
+Elapsed: 7m 44.57s, Iter: 3, Loss: 1388.791, AUC: 0.750
+Epoch Used: 107.049, Eval Used: 146.678
+Elapsed: 10m 11.25s, Iter: 4, Loss: 1386.866, AUC: 0.750
+Epoch Used: 108.338, Eval Used: 149.986
+Elapsed: 12m 41.24s, Iter: 5, Loss: 1389.963, AUC: 0.750
+Epoch Used: 108.568, Eval Used: 145.698
+Elapsed: 15m 6.94s, Iter: 6, Loss: 1389.330, AUC: 0.750
+Epoch Used: 107.857, Eval Used: 149.273
+Elapsed: 17m 36.21s, Iter: 7, Loss: 1388.359, AUC: 0.500
+Epoch Used: 108.236, Eval Used: 145.186
+Elapsed: 20m 1.40s, Iter: 8, Loss: 1389.701, AUC: 0.500
+Epoch Used: 107.856, Eval Used: 145.121
+Elapsed: 22m 26.52s, Iter: 9, Loss: 1388.189, AUC: 0.750
+Epoch Used: 107.882, Eval Used: 149.247
+Elapsed: 24m 55.77s, Iter: 10, Loss: 1388.282, AUC: 0.750
+
+
+
+root@d18a2e92abfe:/Codes# python test.py
+Loading raw data collections ...
+Building data sets ...
+Epoch Used: 600.098, Eval Used: 715.043
+Elapsed: 12m 22.42s, Iter: 1, Loss: 1389.371, AUC: 0.750
+Epoch Used: 577.154, Eval Used: 697.569
+Elapsed: 23m 59.99s, Iter: 2, Loss: 1390.663, AUC: 0.500
+Epoch Used: 566.300, Eval Used: 684.589
+Elapsed: 35m 24.58s, Iter: 3, Loss: 1388.785, AUC: 0.750
+Epoch Used: 584.342, Eval Used: 694.795
+Elapsed: 46m 59.38s, Iter: 4, Loss: 1386.905, AUC: 0.750
+Epoch Used: 573.196, Eval Used: 685.611
+Elapsed: 58m 24.99s, Iter: 5, Loss: 1390.031, AUC: 0.750
+Epoch Used: 574.431, Eval Used: 687.414
+Elapsed: 69m 52.40s, Iter: 6, Loss: 1389.403, AUC: 0.750
+Epoch Used: 557.699, Eval Used: 672.495
+Elapsed: 81m 4.90s, Iter: 7, Loss: 1388.402, AUC: 0.750
+Epoch Used: 579.389, Eval Used: 694.265
+Elapsed: 92m 39.16s, Iter: 8, Loss: 1389.764, AUC: 0.750
+Epoch Used: 585.240, Eval Used: 704.324
+Elapsed: 104m 23.49s, Iter: 9, Loss: 1388.155, AUC: 0.750
+Epoch Used: 552.870, Eval Used: 666.364
+Elapsed: 115m 29.85s, Iter: 10, Loss: 1388.307, AUC: 0.750
+
+Loading raw data collections ...
+Building data sets ...
+Epoch Used: 5.568, Eval Used: 8.574
+Elapsed: 2m 34.43s, Iter: 1, Loss:   86.691, AUC: 0.750
+Epoch Used: 4.918, Eval Used: 8.304
+Elapsed: 2m 42.75s, Iter: 2, Loss:   86.662, AUC: 0.500
+Epoch Used: 5.407, Eval Used: 8.488
+Elapsed: 2m 51.24s, Iter: 3, Loss:   86.671, AUC: 0.750
+Epoch Used: 5.391, Eval Used: 8.380
+Elapsed: 2m 59.62s, Iter: 4, Loss:   86.677, AUC: 0.750
+Epoch Used: 5.410, Eval Used: 8.691
+Elapsed: 3m 8.32s, Iter: 5, Loss:   86.668, AUC: 0.750
+Epoch Used: 5.423, Eval Used: 8.682
+Elapsed: 3m 17.00s, Iter: 6, Loss:   86.662, AUC: 0.750
+Epoch Used: 5.445, Eval Used: 8.602
+Elapsed: 3m 25.60s, Iter: 7, Loss:   86.670, AUC: 0.750
+Epoch Used: 5.132, Eval Used: 8.184
+Elapsed: 3m 33.79s, Iter: 8, Loss:   86.650, AUC: 0.750
+Epoch Used: 5.228, Eval Used: 8.447
+Elapsed: 3m 42.24s, Iter: 9, Loss:   86.681, AUC: 0.500
+Epoch Used: 4.928, Eval Used: 8.062
+Elapsed: 3m 50.30s, Iter: 10, Loss:   86.674, AUC: 0.750
+
+
+
+
+
+(py36torch_latest) D:\Projects\Pytorch\Codes>python test.py
+Loading raw data collections ...
+Building data sets ...
+Epoch Used: 5.923, Eval Used: 9.068
+Elapsed: 2m 29.13s, Iter: 1, Loss:   86.691, AUC: 0.750
+Epoch Used: 5.151, Eval Used: 8.420
+Elapsed: 2m 37.55s, Iter: 2, Loss:   86.662, AUC: 0.500
+Epoch Used: 5.115, Eval Used: 8.093
+Elapsed: 2m 45.65s, Iter: 3, Loss:   86.671, AUC: 0.750
+Epoch Used: 4.926, Eval Used: 7.896
+Elapsed: 2m 53.54s, Iter: 4, Loss:   86.677, AUC: 0.750
+Epoch Used: 5.240, Eval Used: 8.182
+Elapsed: 3m 1.73s, Iter: 5, Loss:   86.668, AUC: 0.750
+Epoch Used: 5.002, Eval Used: 8.073
+Elapsed: 3m 9.80s, Iter: 6, Loss:   86.662, AUC: 0.750
+Epoch Used: 5.300, Eval Used: 8.476
+Elapsed: 3m 18.28s, Iter: 7, Loss:   86.670, AUC: 0.750
+Epoch Used: 5.268, Eval Used: 8.241
+Elapsed: 3m 26.52s, Iter: 8, Loss:   86.650, AUC: 0.750
+Epoch Used: 5.146, Eval Used: 8.125
+Elapsed: 3m 34.65s, Iter: 9, Loss:   86.681, AUC: 0.500
+Epoch Used: 4.967, Eval Used: 7.932
+Elapsed: 3m 42.58s, Iter: 10, Loss:   86.674, AUC: 0.750
+
+(py36torch_latest) D:\Projects\Pytorch\Codes>python test.py
+Loading raw data collections ...
+Building data sets ...
+Epoch Used: 5.170, Eval Used: 7.903
+Elapsed: 2m 20.75s, Iter: 1, Loss:   86.659, AUC: 0.500
+Epoch Used: 4.666, Eval Used: 7.416
+Elapsed: 2m 28.16s, Iter: 2, Loss:   86.652, AUC: 0.500
+Epoch Used: 4.980, Eval Used: 7.898
+Elapsed: 2m 36.06s, Iter: 3, Loss:   86.657, AUC: 0.750
+Epoch Used: 5.077, Eval Used: 8.162
+Elapsed: 2m 44.23s, Iter: 4, Loss:   86.666, AUC: 0.500
+Epoch Used: 4.876, Eval Used: 7.845
+Elapsed: 2m 52.07s, Iter: 5, Loss:   86.657, AUC: 0.500
+Epoch Used: 4.951, Eval Used: 8.170
+Elapsed: 3m 0.24s, Iter: 6, Loss:   86.654, AUC: 0.750
+Epoch Used: 5.302, Eval Used: 8.311
+Elapsed: 3m 8.56s, Iter: 7, Loss:   86.658, AUC: 0.750
+Epoch Used: 5.186, Eval Used: 8.166
+Elapsed: 3m 16.73s, Iter: 8, Loss:   86.647, AUC: 0.500
+Epoch Used: 5.502, Eval Used: 8.579
+Elapsed: 3m 25.31s, Iter: 9, Loss:   86.664, AUC: 0.500
+Epoch Used: 5.196, Eval Used: 8.416
+Elapsed: 3m 33.72s, Iter: 10, Loss:   86.661, AUC: 0.500
